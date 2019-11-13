@@ -7,4 +7,4 @@ This repo provides example on the real time implementation of object detection f
 * Tensorflow
 * Matplotlib
 * OpenCV
-* Jetbot (for creating camera instance - Internally, the Camera class uses GStreamer to take advantage of Jetson Nano's Image Signal Processor (ISP). This is super fast and offloads a lot of the resizing computation from the CPU. )
+* Jetbot https://github.com/NVIDIA-AI-IOT/jetbot (for creating camera instance - Internally, the Camera class uses GStreamer to take advantage of Jetson Nano's Image Signal Processor (ISP). This is super fast and offloads a lot of the resizing computation from the CPU. ) 
