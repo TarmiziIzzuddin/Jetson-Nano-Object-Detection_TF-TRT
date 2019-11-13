@@ -4,7 +4,7 @@ This repo provides example on the real time implementation of object detection f
 
 Optimized model can also be downloaded below:
 
-https://drive.google.com/open?id=1RnNBHPDphIOWwHCSfeMCWQ7XN3w3tKFD
+https://drive.google.com/open?id=1LLjTDUgcOuf_uTtndnpcrGO1U3jWKJNe
 
 
 # Other requirements
